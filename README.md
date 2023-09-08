@@ -1,6 +1,6 @@
-### BLS12-377 Implementation in Go
+### BLS12-377 Implementation in Go1
 
-This library is adapted from [BLS12-381 implementation](https://github.com/kilic/bls12-381)
+This library is adapted from [BLS12-381 implementation](https://github.com/kilic/bls12-381) 
 
 #### Pairing Instance
 
