@@ -1,4 +1,4 @@
-module kilic/bls12-377
+module github.com/xpeng722/bls12-377
 
 go 1.14
 
